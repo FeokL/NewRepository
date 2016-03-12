@@ -2,7 +2,7 @@ p input{
     width: 432px;
     border: 1px solid grey;
     border-radius: 6px;
-    height: 19px;
+    height: 22px;
 }
 
  input {
@@ -11,9 +11,12 @@ p input{
 
 .top{
     background-color: #4460A1;
-    border: 0px solid black;;
+    border: 0px solid black;
 }
 
+.top table{
+    margin-left:299px;
+}
 .besides{
     padding: 5px 0 5px 0;
     background-color:#E8E9ED;
@@ -22,10 +25,10 @@ body{
     margin: 0;
     background-color:red;
 }
-fieldset{
-    border: 0;
-}
 
+.input-field{
+    margin:6px 18px;
+}
 .profile{
     border-radius: 8px;
     border:1px solid #374D7E;
@@ -104,6 +107,7 @@ p span{
 .photo{
     height: 395px;
     width:726px;
+    float:center;
 }
 
 .small{
@@ -176,6 +180,4 @@ a{
     color:grey;
 }
 
-pre a:link, a:visited, a:hover, a:active{
-    color:darkgrey;
-}
+
