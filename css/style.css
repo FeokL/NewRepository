@@ -93,7 +93,7 @@ td p{
 .border-bottom{
     border-bottom:1px solid lightgrey;
 }
-p span{
+p .bold{
     color:#4460A1;
     font-weight: bold;
 }
