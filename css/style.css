@@ -1,0 +1,183 @@
+p input{
+    width: 432px;
+    border: 1px solid grey;
+    border-radius: 6px;
+    height: 22px;
+}
+
+ input {
+    color: #72767F; 
+ }
+
+.top{
+    background-color: #4460A1;
+    border: 0px solid black;
+}
+
+.top table{
+    margin-left:299px;
+}
+.besides{
+    padding: 5px 0 5px 0;
+    background-color:#E8E9ED;
+}
+body{
+    margin: 0;
+    background-color:red;
+}
+
+.input-field{
+    margin:6px 18px;
+}
+.profile{
+    border-radius: 8px;
+    border:1px solid #374D7E;
+}
+
+tr td{
+    padding: 0;
+}
+
+td p{
+    margin: 0;
+    padding: 0;
+    color: #FCFBFD;
+    font: 12px Arial;
+    font-weight: bold;
+}
+
+
+.profile, .logo{
+    margin: 0;
+    height: 24px;
+    width: 24px;
+}
+
+.progile{
+    float:right;
+}
+
+.logo{
+    float:left;
+}
+
+.main-friends{
+    border-left: 1px solid #385493;
+    padding:0 0 0 10px;
+}
+
+.main-friends, .settings-profile{
+    margin-left:8px;
+}
+            /*----------Разделение----------*/
+
+.main{
+    padding: 0 300px 10px 300px;
+    background-color:#E8E9ED;
+}
+
+.main-title{
+    width:auto;
+    height: auto;
+    border:1px solid lightgrey;
+    border-radius:4px;
+    margin: 0 auto;
+    background-color: white;
+    padding:0 10px 10px 10px;
+}
+.main p{
+    font: 14px Tahoma;
+    color: #AFAFB9;
+    padding:0 0 10px 0;
+}
+.border-bottom{
+    border-bottom:1px solid lightgrey;
+}
+p .bold{
+    color:#4460A1;
+    font-weight: bold;
+}
+.profile-main{
+    height: 36px;
+    width: 36px;
+    margin-right: 10px;
+    float: left;
+}
+
+.photo{
+    height: 395px;
+    width:726px;
+    float:center;
+}
+
+.small{
+    font-size: 12px;
+    margin:6px 0;
+}
+
+.lower{
+    border-left: 3px solid lightgrey;
+    padding:0 0 0 5px;
+    margin:0;
+    width:250px;
+    height:70px;
+}
+
+.lower p{
+    margin: 2px 0;
+    padding: 0;
+}
+
+.lower img{
+    margin:10px 0 0 0;
+    width: 100px;
+}
+
+.border-top{
+    border-top: 1px solid lightgrey;
+    width:668px;
+}
+
+.data{
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+}
+
+.lower .translate{
+    color:#4460A1;
+}
+
+.likes{
+    color: black;
+    border:1px solid lightgrey;
+    border-left:0;
+    padding:3px 0 3px 5px;
+    height:auto;
+    background-color:#F5F6F8;
+}
+
+.likes p{
+    padding:10px 0 0 0;
+}
+div .likes span{
+    font-weight: normal;
+}
+
+.block-likes{
+        border-left: 2px solid #7D9CD3;
+        margin:65px 0 0 0;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.description{
+    border-left:3px solid lightgrey;
+    padding-left:5px;
+    color:grey;
+}
+
+
