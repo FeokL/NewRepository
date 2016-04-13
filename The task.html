@@ -211,11 +211,39 @@ Follow Star Wars on Tumblr at <a href="http://starwars.tumblr.com">http://starwa
       </div>
    
       <script type="text/javascript">
-      
-      document.write("You can see this text by Javascript");
+      var price;
+      price = 500;
 
+      var name = "Ivan";
+
+
+      document.write (name);
+      document.write ("You can see this text by Javascript");
+
+
+//Операции над переменнными
+
+      var appleCount = 45, orangeCount = 67, totalFruits;
+      totalFruits = appleCount * orangeCount;
+
+      document.write(totalFruits);
+
+      var surname = 'Zabolotnyi', name = 'Evgeniy', middleName = 'Alexandrovich';
+      var fio = surname + ' ' + name + ' ' + middleName;
+
+      document.write(fio);
+//Изменение значений переменных
+      var count = 32;
+      count -=16;
+      count++;
+      document.write(count);
+//Homework
+      var days = 365, planet1 = 'Земля', population = '7 млрд', sun = 'Солнца';
+      var sentence = 'Мы живем на планете ' + planet1 + ', она делает один оборот вокруг ' + sun + ' за ' + days + ' дней.' 
+      + 'Население наше планеты составляет примерно ' + population + '. человек.'
+
+      document.write(sentence);
       </script>
-
     </div>
   </div>
 </body>
